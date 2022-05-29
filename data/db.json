@@ -1,0 +1,28 @@
+{
+  "events": [
+    {
+      "title": "Event 1",
+      "description": "Ett event som handlar om någonting kul",
+      "timestamp": 1653290260864,
+      "id": "12qwedfv"
+    },
+    {
+      "title": "test",
+      "description": "Det här är ett test event",
+      "timestamp": 1653298680000,
+      "id": "MfJStCP"
+    },
+    {
+      "title": "test2",
+      "description": "Det här är ett test event",
+      "timestamp": 1653309480000,
+      "id": "T9XxKDQ"
+    },
+    {
+      "title": "Äta lunch",
+      "description": "maaaaat",
+      "timestamp": 1653300000000,
+      "id": "Q4WLbwe"
+    }
+  ]
+}
