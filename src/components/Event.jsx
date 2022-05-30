@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import "./Event.css";
+import moment from "moment";
 
 const Event = ({ event }) => {
   return (
@@ -11,8 +12,7 @@ const Event = ({ event }) => {
     // </Link>
     <Link to={`/event/${event.id}`} className="card d-flex justify-between">
       <div className="evt-title">{event.title}</div>
-      {/* <p>{moment(evt.timestamp).fromNow()}</p> */}
-      <p>{event.timestamp}</p>
+      <p>{moment(event.timestamp).fromNow()}</p>
     </Link>
   );
 };

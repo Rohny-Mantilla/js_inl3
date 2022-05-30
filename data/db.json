@@ -1,28 +1,16 @@
 {
   "events": [
     {
-      "title": "Event 1",
-      "description": "Ett event som handlar om någonting kul",
-      "timestamp": 1653290260864,
-      "id": "12qwedfv"
+      "title": "Hämta barn från skolan",
+      "desc": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facere, deleniti et omnis praesentium possimus doloremque dicta ut reiciendis repellat itaque sit, ratione ab? Voluptates placeat voluptatem omnis minima eveniet totam.",
+      "timestamp": 1653924900000,
+      "id": "pEI5diF"
     },
     {
-      "title": "test",
-      "description": "Det här är ett test event",
-      "timestamp": 1653298680000,
-      "id": "MfJStCP"
-    },
-    {
-      "title": "test2",
-      "description": "Det här är ett test event",
-      "timestamp": 1653309480000,
-      "id": "T9XxKDQ"
-    },
-    {
-      "title": "Äta lunch",
-      "description": "maaaaat",
-      "timestamp": 1653300000000,
-      "id": "Q4WLbwe"
+      "title": "dadsasd",
+      "desc": "dsadsa",
+      "timestamp": 1653882120000,
+      "id": "_O_SVEu"
     }
   ]
 }

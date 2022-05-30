@@ -19,7 +19,8 @@ const EventDetailsView = () => {
       {data && (
         <div className=" card">
           <h2>{data.title}</h2>
-          <p>{data.description}</p>
+          <br />
+          <p>{data.desc}</p>
         </div>
       )}
     </div>
